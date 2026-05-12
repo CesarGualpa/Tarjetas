@@ -14,7 +14,7 @@ function crearTarjetas(){
     hasta=cmpHasta.value;
     let hastaEntero;
     hastaEntero=parseInt(hasta);
-
+    
     let cmpSalto;
     cmpSalto=document.getElementById("txtSalto");
     let salto;
